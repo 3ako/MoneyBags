@@ -1,0 +1,22 @@
+storage:
+  mysql:
+    host: localhost
+    port: 3306
+    user: root
+    password: password
+    baseName: moneybags
+    maxConnections: 2 # Меньше двух лучше не использовать, при загрузке плагину может потребоваться два соединения
+    updateDelay: 150 # ticks
+
+battlePassPermission: "battlePass.pass"
+
+levelUpRewardCommands:
+  - "eco give %username% 5000"
+  - "give %username% diamond 5"
+levelUpRewardBattlePassCommands:
+  - "eco give %username% 10000"
+  - "give %username% diamond 20"
+
+levelUpSound: ENTITY_PLAYER_LEVELUP
+successSellSound: item_armor_equip_netherite
+failureSellSound: entity_armor_stand_break

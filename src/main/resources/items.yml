@@ -1,0 +1,234 @@
+static-items:
+  # Level 1
+  -
+    -
+      title: "&c&lПаучий глаз"
+      material: spider_eye
+      amount: 1280
+    -
+      title: "&c&lРедстоун"
+      material: redstone
+      amount: 1280
+    -
+      title: "&c&lКрасный краситель"
+      material: red_dye
+      amount: 1280
+    -
+      title: "&c&lБагровый нилий"
+      material: crimson_nylium
+      amount: 960
+    -
+      title: "&c&lБагровый стебель"
+      material: crimson_stem
+      amount: 960
+    -
+      title: "&c&lДинамит"
+      material: tnt
+      amount: 640
+    -
+      title: "&c&lКрасное стекло"
+      material: red_stained_glass
+      amount: 640
+
+
+  # Level 2
+  -
+    -
+      title: "&c&lКрасный песок"
+      material: red_sand
+      amount: 64
+    -
+      title: "&c&lОранжевый краситель"
+      material: orange_dye
+      amount: 1280
+    -
+      title: "&c&lОранжевая глазурованная керамика"
+      material: orange_glazed_terracotta
+      amount: 640
+    -
+      title: "&c&lОранжевое стекло"
+      material: orange_stained_glass
+      amount: 640
+    -
+      title: "&c&lАкациевое бревно"
+      material: acacia_log
+      amount: 960
+    -
+      title: "&c&lСветильник Джека"
+      material: jack_o_lantern
+      amount: 1280
+    -
+      title: "&c&lМагма"
+      material: magma_block
+      amount: 320
+    -
+      title: "&c&lГрибосвет"
+      material: shroomlight
+      amount: 640
+  # Level 3
+  -
+    - title: "&c&lЖёлтый краситель"
+      material: yellow_dye
+      amount: 640
+    - title: "&c&Жёлтая глазурованная керамика"
+      material: yellow_glazed_terracotta
+      amount: 640
+    - title: "&c&Желтое стекло"
+      material: yellow_stained_glass
+      amount: 1280
+    - title: "&c&lПесок"
+      material: sand
+      amount: 1280
+    - title: "&c&lГубка"
+      material: sponge
+      amount: 24
+    - title: "&c&lЗолотая руда"
+      material: gold_ore
+      amount: 320
+    - title: "&c&lСветокаменная пыль"
+      material: glowstone_dust
+      amount: 1280
+    - title: "&c&lСном сена"
+      material: hay_block
+      amount: 320
+    - title: "&c&lПодсолнух"
+      material: sunflower
+      amount: 2560
+
+dynamic-items:
+  # Level 1
+  -
+    - title: "&c&lКамень"
+      material: stone
+      startPrice: 120
+      priceStep: 2
+    - title: "&c&lБулыжник"
+      material: cobblestone
+      startPrice: 80
+      priceStep: 2
+    - title: "&c&lДиорит"
+      material: diorite
+      startPrice: 80
+      priceStep: 2
+    - title: "&c&lАндезит"
+      material: andesite
+      startPrice: 80
+      priceStep: 2
+    - title: "&c&lГранит"
+      material: granite
+      startPrice: 80
+      priceStep: 2
+    - title: "&c&lЧернит"
+      material: blackstone
+      startPrice: 150
+      priceStep: 2
+    - title: "&c&lНезерак"
+      material: netherrack
+      startPrice: 40
+      priceStep: 2
+    - title: "&c&lДубовое бревно"
+      material: oak_log
+      startPrice: 500
+      priceStep: 5
+    - title: "&c&lБревно темного дуба"
+      material: dark_oak_log
+      startPrice: 500
+      priceStep: 5
+    - title: "&c&lБерезовое бревно"
+      material: birch_log
+      startPrice: 500
+      priceStep: 5
+    - title: "&c&lБревно тропического дерева"
+      material: jungle_log
+      startPrice: 500
+      priceStep: 5
+  # Level 2
+  -
+    - title: "&c&lТростник"
+      material: sugar_cane
+      startPrice: 210
+      priceStep: 5
+    - title: "&c&lАрбузный блок"
+      material: melon
+      startPrice: 210
+      priceStep: 5
+  # Level 3
+  -
+    - title: "&c&lКости"
+      material: bone
+      startPrice: 650
+      priceStep: 15
+    - title: "&c&lПаучьи глаза"
+      material: spider_eye
+      startPrice: 650
+      priceStep: 15
+  # Level 4
+  -
+    - title: "&c&lПеро"
+      material: feather
+      startPrice: 800
+      priceStep: 10
+    - title: "&c&lБелая шерсть"
+      material: white_wool
+      startPrice: 450
+      priceStep: 20
+  # Level 5
+  -
+    - title: "&c&lЖареная треска"
+      material: cooked_cod
+      startPrice: 1000
+      priceStep: 100
+    - title: "&c&lЖареный лосось"
+      material: cooked_salmon
+      startPrice: 1200
+      priceStep: 100
+  # Level 6
+  -
+    - title: "&c&lИзумрудный блок"
+      material: emerald_block
+      startPrice: 12000
+      priceStep: 500
+    - title: "&c&lДинамит"
+      material: tnt
+      startPrice: 2200
+      priceStep: 100
+  # Level 7
+  -
+    - title: "&c&lПесок душ"
+      material: soul_sand
+      startPrice: 700
+      priceStep: 20
+    - title: "&c&lПочва душ"
+      material: soul_soil
+      startPrice: 750
+      priceStep: 20
+  # Level 8
+  -
+    - title: "&c&lГниилой картофель"
+      material: poisonous_potato
+      startPrice: 6000
+      priceStep: 200
+    - title: "&c&lКактус"
+      material: cactus
+      startPrice: 500
+      priceStep: 20
+  # Level 9
+  -
+    - title: "&c&lПорох"
+      material: gunpowder
+      startPrice: 500
+      priceStep: 50
+    - title: "&c&lСлеза гаста"
+      material: ghast_tear
+      startPrice: 1000
+      priceStep: 200
+  # Level 10
+  -
+    - title: "&c&lЧерепашье яйцо"
+      material: turtle_egg
+      startPrice: 1500
+      priceStep: 0
+    - title: "&c&lСердце моря"
+      material: heart_of_the_sea
+      startPrice: 15000
+      priceStep: 0

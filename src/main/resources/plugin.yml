@@ -1,0 +1,8 @@
+name: Moneybags
+version: '${project.version}'
+main: holy.moneybags.Moneybags
+api-version: 1.19
+authors: [ Zako ]
+depend: [Vault]
+commands:
+  moneybags:
