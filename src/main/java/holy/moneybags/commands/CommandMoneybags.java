@@ -1,7 +1,7 @@
 package holy.moneybags.commands;
 
 import holy.moneybags.Moneybags;
-import holy.moneybags.gui.mbags.MBagsUser;
+import holy.moneybags.mbags.MBagsUser;
 import holy.moneybags.storage.files.Configuration;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

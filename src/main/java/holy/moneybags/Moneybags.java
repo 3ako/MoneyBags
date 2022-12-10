@@ -2,9 +2,9 @@ package holy.moneybags;
 
 import holy.moneybags.commands.CommandMoneybags;
 import holy.moneybags.gui.MBagsMenu;
-import holy.moneybags.gui.mbags.MBagsUserManager;
-import holy.moneybags.gui.mbags.items.DynamicItemsManager;
-import holy.moneybags.gui.mbags.items.StaticItemsManager;
+import holy.moneybags.mbags.MBagsUserManager;
+import holy.moneybags.mbags.items.DynamicItemsManager;
+import holy.moneybags.mbags.items.StaticItemsManager;
 import holy.moneybags.storage.StorageManager;
 import holy.moneybags.storage.files.ConfigurationManager;
 import holy.moneybags.storage.mysql.MySqlStorage;

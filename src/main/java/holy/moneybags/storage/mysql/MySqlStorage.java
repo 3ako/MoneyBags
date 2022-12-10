@@ -1,9 +1,9 @@
 package holy.moneybags.storage.mysql;
 
 import holy.moneybags.Moneybags;
-import holy.moneybags.gui.mbags.MBagsUser;
-import holy.moneybags.gui.mbags.items.DynamicItem;
-import holy.moneybags.gui.mbags.items.DynamicItemsManager;
+import holy.moneybags.mbags.MBagsUser;
+import holy.moneybags.mbags.items.DynamicItem;
+import holy.moneybags.mbags.items.DynamicItemsManager;
 import holy.moneybags.storage.Storage;
 import holy.moneybags.storage.files.ConfigurationManager;
 import org.bukkit.Material;

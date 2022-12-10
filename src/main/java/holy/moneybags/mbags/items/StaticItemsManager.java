@@ -1,4 +1,4 @@
-package holy.moneybags.gui.mbags.items;
+package holy.moneybags.mbags.items;
 
 import holy.moneybags.Moneybags;
 import org.bukkit.ChatColor;

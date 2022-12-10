@@ -1,6 +1,6 @@
 package holy.moneybags.storage;
 
-import holy.moneybags.gui.mbags.MBagsUser;
+import holy.moneybags.mbags.MBagsUser;
 
 import java.util.ArrayList;
 import java.util.List;

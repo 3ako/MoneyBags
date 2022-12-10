@@ -1,10 +1,10 @@
-package holy.moneybags.gui.mbags;
+package holy.moneybags.mbags;
 
 import holy.moneybags.Moneybags;
-import holy.moneybags.gui.mbags.items.DynamicItem;
-import holy.moneybags.gui.mbags.items.StaticItem;
-import holy.moneybags.gui.mbags.items.StaticItemsManager;
-import holy.moneybags.gui.mbags.items.DynamicItemsManager;
+import holy.moneybags.mbags.items.DynamicItem;
+import holy.moneybags.mbags.items.StaticItem;
+import holy.moneybags.mbags.items.StaticItemsManager;
+import holy.moneybags.mbags.items.DynamicItemsManager;
 import lombok.Getter;
 import lombok.Setter;
 import org.bukkit.Bukkit;

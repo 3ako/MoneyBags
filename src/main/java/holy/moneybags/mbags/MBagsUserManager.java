@@ -1,8 +1,8 @@
-package holy.moneybags.gui.mbags;
+package holy.moneybags.mbags;
 
 import holy.moneybags.Moneybags;
-import holy.moneybags.gui.mbags.items.StaticItem;
-import holy.moneybags.gui.mbags.items.StaticItemsManager;
+import holy.moneybags.mbags.items.StaticItem;
+import holy.moneybags.mbags.items.StaticItemsManager;
 import holy.moneybags.storage.Storage;
 import holy.moneybags.storage.files.Configuration;
 import org.bukkit.Bukkit;

@@ -2,10 +2,10 @@ package holy.moneybags.gui;
 
 import holy.moneybags.Moneybags;
 import holy.moneybags.Utils;
-import holy.moneybags.gui.mbags.MBagsUser;
-import holy.moneybags.gui.mbags.MBagsUserManager;
-import holy.moneybags.gui.mbags.items.StaticItem;
-import holy.moneybags.gui.mbags.items.StaticItemsManager;
+import holy.moneybags.mbags.MBagsUser;
+import holy.moneybags.mbags.MBagsUserManager;
+import holy.moneybags.mbags.items.StaticItem;
+import holy.moneybags.mbags.items.StaticItemsManager;
 import holy.moneybags.storage.files.Configuration;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
